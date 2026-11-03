@@ -1,0 +1,235 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "topbar": {
+    "callNow": "Direct Calls:",
+    "shopLocation": "Mian Zarri Market, Rohi Nala Road, Opp. New Sabzi Mandi, Lahore",
+    "switchLang": "اردو"
+  },
+  "nav": {
+    "machines": "Milking Machines",
+    "tools": "Dairy Tools",
+    "spareParts": "Spare Parts",
+    "whyUs": "Why Us",
+    "reviews": "Reviews",
+    "visitUs": "Visit Shop",
+    "contactWhatsApp": "WhatsApp Inquiry"
+  },
+  "hero": {
+    "badge": "Directly Imported Turkish Dairy Machinery",
+    "title": "Imported Turkish Milking Machines for Dairy Farms Across Pakistan",
+    "subtitle": "Save labor and milking time while protecting cow and buffalo udder health. In-stock units with readily available spare parts at our Lahore store.",
+    "ctaWhatsApp": "Ask Price on WhatsApp",
+    "ctaCall": "Call Now",
+    "stats": [
+      { "label": "Imported from Turkey", "desc": "European certified build quality" },
+      { "label": "4.5 on Google (139 Reviews)", "desc": "Verified farmer ratings" },
+      { "label": "Stock & Parts in Lahore", "desc": "Liners, pulsators, pumps on hand" }
+    ],
+    "imageAlt": "Imported Turkish Milking Machine at Lahore Warehouse"
+  },
+  "machines": {
+    "sectionTag": "Machinery Models",
+    "title": "Turkish Cow & Buffalo Milking Machines",
+    "subtitle": "Built tough for Pakistani farm conditions. Tested on Sahiwal cows, Cholistani breeds, and Nili-Ravi buffaloes.",
+    "specsLabels": {
+      "capacity": "Bucket Capacity",
+      "speed": "Milking Speed",
+      "motor": "Electric Motor",
+      "pump": "Vacuum Pump Type",
+      "pulsator": "Pulsator Rate"
+    },
+    "singleBucket": {
+      "badge": "Ideal for Small to Mid-Sized Herds",
+      "name": "Single-Bucket Turkish Milking Machine",
+      "model": "Model: APM-TK1 (30 Litre)",
+      "targetHerd": "Best for herds of 5 to 15 cows or buffaloes",
+      "description": "Milks one animal at a time with steady, gentle vacuum pressure. Compact cart with heavy-duty rubber wheels makes it easy for one worker to maneuver through stalls.",
+      "specs": {
+        "capacity": "30L Stainless Steel (SUS 304 food-grade)",
+        "speed": "10 to 12 animals per hour",
+        "motor": "0.75 HP / 0.55 kW (220V Single Phase)",
+        "pump": "200 L/min Dry Graphite Vane Pump",
+        "pulsator": "60/40 Pneumatic Pulsator"
+      },
+      "cta": "Ask Single-Bucket Price on WhatsApp",
+      "whatsappMsg": "Hello, I am interested in the Single-Bucket Turkish Milking Machine (Model APM-TK1). Please share price and delivery details."
+    },
+    "doubleCluster": {
+      "badge": "Designed for Commercial Dairy Operations",
+      "name": "Double-Cluster / Dual-Bucket Milking Machine",
+      "model": "Model: APM-TK2 (40 Litre or Dual 30L)",
+      "targetHerd": "Best for herds of 15 to 40+ cows or buffaloes",
+      "description": "Milks two animals simultaneously. Features a high-flow vacuum pump, heavy reinforcement frame, and large surge tank to prevent pressure drops during animal movement.",
+      "specs": {
+        "capacity": "40L single can or 2x30L dual buckets",
+        "speed": "20 to 24 animals per hour",
+        "motor": "1.1 kW / 1.5 HP Heavy Duty (220V)",
+        "pump": "250 to 300 L/min High-Volume Pump",
+        "pulsator": "Two Independent Pneumatic Pulsators (60/40)"
+      },
+      "cta": "Ask Double-Cluster Price on WhatsApp",
+      "whatsappMsg": "Hello, I am interested in the Double-Cluster Turkish Milking Machine (Model APM-TK2). Please share price and delivery details."
+    }
+  },
+  "tools": {
+    "sectionTag": "Dairy Accessories",
+    "title": "Essential Dairy Farm Tools & Hygiene Supplies",
+    "subtitle": "High-grade accessories designed to keep milk clean and maintain animal udder health.",
+    "items": [
+      {
+        "name": "Non-Return Teat Dip Cup",
+        "desc": "Prevents mastitis by applying antiseptic before and after milking. Non-return valve prevents backwash into the supply reservoir.",
+        "tag": "Udder Care"
+      },
+      {
+        "name": "Stainless Steel Milk Cans",
+        "desc": "Heavy-gauge 20L, 30L, and 50L food-grade transport cans with hermetic lockable lids and dual carry handles.",
+        "tag": "SUS Food-Grade"
+      },
+      {
+        "name": "Milking Cluster Assembly",
+        "desc": "Original Turkish 4-cup cluster assembly with transparent silicone shells, rubber milk tubes, and 240cc claw.",
+        "tag": "Complete Set"
+      },
+      {
+        "name": "Milk Strainer with Micro-Filter",
+        "desc": "Seamless stainless steel funnel with reusable fine mesh insert to remove debris and dirt before chilling.",
+        "tag": "Filtration"
+      },
+      {
+        "name": "Calf Feeding Bucket with Nipple",
+        "desc": "Graduated feeding pail equipped with durable rubber teat for measured milk feeding of calves.",
+        "tag": "Calf Rearing"
+      },
+      {
+        "name": "Flexible Tube & Liner Cleaning Brushes",
+        "desc": "Extra-long wire bristle brushes designed to scrub the interior of milk tubes and silicone liners daily.",
+        "tag": "Sanitation"
+      }
+    ],
+    "inquireAll": "Inquire About Tools on WhatsApp"
+  },
+  "spareParts": {
+    "sectionTag": "Spare Parts Guarantee",
+    "title": "Original Turkish Spare Parts Always in Stock in Lahore",
+    "subtitle": "We keep wearable parts ready so your morning and evening milking is never interrupted. No waiting weeks for international shipping.",
+    "partsList": [
+      "Silicone and rubber milking liners",
+      "Turkish pneumatic pulsators (60/40 ratio)",
+      "Milking claws (150cc and 240cc capacity)",
+      "Dry graphite vacuum pump vanes",
+      "Food-grade transparent milk and air tubing",
+      "Vacuum regulators and brass pressure gauges"
+    ],
+    "stepsTitle": "How to Order Spare Parts in 3 Steps:",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Take a Photo",
+        "desc": "Take a photo of the damaged part or the machine plate with your phone."
+      },
+      {
+        "num": "02",
+        "title": "Send via WhatsApp",
+        "desc": "Send the photo or part name to our team at +92 310 1338666."
+      },
+      {
+        "num": "03",
+        "title": "Dispatched from Lahore",
+        "desc": "We confirm fitment, quote the price, and dispatch via courier/cargo anywhere in Punjab."
+      }
+    ],
+    "form": {
+      "title": "Quick Spare Part Inquiry",
+      "desc": "Fill in the details below to generate a pre-filled WhatsApp message:",
+      "nameLabel": "Your Name",
+      "namePlaceholder": "e.g. Tariq Mehmood",
+      "phoneLabel": "Phone Number",
+      "phonePlaceholder": "03001234567",
+      "modelLabel": "Machine Model / Type",
+      "modelPlaceholder": "Single Bucket / Double Cluster / Vacuum Pump",
+      "partLabel": "Part Required",
+      "partPlaceholder": "e.g. 4 liners and 1 pulsator",
+      "submitBtn": "Send Part Request on WhatsApp"
+    }
+  },
+  "whyUs": {
+    "sectionTag": "Our Guarantee",
+    "title": "Why Punjab Dairy Farmers Choose Agro Power Machinery Store",
+    "points": [
+      {
+        "num": "1",
+        "title": "100% Genuine Turkish Import",
+        "desc": "No cheap copies or substandard materials. Complete units and vacuum assemblies manufactured in Turkey, designed for long operational life."
+      },
+      {
+        "num": "2",
+        "title": "Parts In-Stock at Our Lahore Store",
+        "desc": "Located at Mian Zarri Market, Rohi Nala Road. Every replaceable component is stocked locally for immediate pickup or dispatch."
+      },
+      {
+        "num": "3",
+        "title": "Demonstration & Setup Guidance",
+        "desc": "We test run every unit before handover and provide step-by-step guidance on pressure calibration, cleaning, and maintenance."
+      },
+      {
+        "num": "4",
+        "title": "Safe Delivery Across Punjab",
+        "desc": "Reliable cargo delivery to Sahiwal, Okara, Faisalabad, Sargodha, Multan, Bahawalpur, Gujranwala, and surrounding dairy belts."
+      }
+    ]
+  },
+  "reviews": {
+    "sectionTag": "Verified Farmers",
+    "title": "Customer Reviews from the Field",
+    "ratingSummary": "4.5 Google Rating (Over 139 genuine reviews)",
+    "items": [
+      {
+        "quote": "Purchased the double-cluster machine for our Sahiwal farm over a year ago. Works smoothly on both local and crossbred animals. Milk let-down is quick and we haven't had a single mechanical issue. Spare parts were also delivered promptly when needed.",
+        "author": "Malik Tariq Nawaz",
+        "location": "Dairy Farm, Sahiwal",
+        "rating": 5
+      },
+      {
+        "quote": "Honest shop owners. It was our first mechanical milking unit, and they took the time in their Lahore shop to demonstrate pressure adjustment and washing procedures. The pump runs quietly and animal comfort is noticeable.",
+        "author": "Haji Bashir Ahmad Gujjar",
+        "location": "Okara Road, Kasur",
+        "rating": 5
+      },
+      {
+        "quote": "Visited the shop in person on Rohi Nala Road. Real Turkish equipment at competitive market prices without unnecessary middleman markups. Picked up extra liners and pulsators on the spot.",
+        "author": "Muhammad Rizwan Virk",
+        "location": "Sheikhupura",
+        "rating": 4
+      }
+    ]
+  },
+  "visit": {
+    "sectionTag": "Physical Store",
+    "title": "Visit Our Shop in Lahore to Inspect Machines in Person",
+    "subtitle": "We welcome dairy farmers to visit our showroom, inspect the build quality, and see the vacuum pump running before making a decision.",
+    "addressTitle": "Store Address:",
+    "address": "Mian Zarri Market, Rohi Nala Road, Opp. New Sabzi Mandi, Lahore, Punjab, Pakistan",
+    "hoursTitle": "Business Hours:",
+    "hours": "Monday - Saturday: 8:30 AM – 7:30 PM (Sunday Closed)",
+    "phonesTitle": "Direct Contact Numbers:",
+    "phones": [
+      { "display": "+92 310 1338666", "raw": "+923101338666" },
+      { "display": "+92 311 4338666", "raw": "+923114338666" }
+    ],
+    "getDirections": "Open Location on Google Maps",
+    "mapsUrl": "https://maps.google.com/?q=Rohi+Nala+Road+Lahore+Agro+Power+Machinery"
+  },
+  "footer": {
+    "tagline": "Agro Power Machinery Store Lahore — Genuine Turkish milking machines, dairy farm tools, and original spare parts.",
+    "quickLinks": "Quick Links",
+    "contactHeading": "Direct Contact",
+    "facebookText": "Visit our Facebook Page",
+    "facebookUrl": "https://facebook.com",
+    "copyright": "© 2026 Agro Power Machinery Store Lahore. All rights reserved.",
+    "designedBy": "Serving Punjab's dairy farming community"
+  },
+  "floatingWhatsApp": "WhatsApp Us"
+}
+
